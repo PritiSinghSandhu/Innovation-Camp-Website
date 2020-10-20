@@ -1,2 +1,3 @@
 # innovation-camp-website
-My first GitHup Pages Repository
+
+https://pritisinghsandhu.github.io/innovation-camp-website/
